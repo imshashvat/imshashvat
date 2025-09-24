@@ -62,13 +62,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/imshashvat/imshashvat/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: **shashvattripathi0614@gmail.com**  
 - 💼 LinkedIn: [Shashvat Tripathi](https://www.linkedin.com/in/shashvat-tripathi-6518aa332/)  
