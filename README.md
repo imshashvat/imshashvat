@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shashvat Tripathi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF4B91&center=true&vCenter=true&width=750&lines=CSE+Student;Machine+Learning+Enthusiast;AI+Explorer;Data+Driven+Problem+Solver;Future+ML+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=CSE+Student;Machine+Learning+Enthusiast;AI+Explorer;Data+Driven+Problem+Solver;Future+ML+Engineer" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ Currently strengthening:
 Machine Learning based misinformation detection system using NLP fundamentals.
 
 🔹 **Amazon Clone**  
-Responsive e-commerce frontend built using HTML & CSS.
+Responsive e-commerce frontend built with HTML & CSS.
 
 🔹 **Portfolio Website**  
 Modern dark-themed personal portfolio with resume download.
@@ -98,17 +98,17 @@ Modern dark-themed personal portfolio with resume download.
 <!-- Streak -->
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=imshashvat&theme=radical&hide_border=true&ring=FF4B91&fire=FF4B91&currStreakLabel=FF4B91" 
+    src="https://streak-stats.demolab.com?user=imshashvat&theme=radical&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" 
     height="170"
   />
 </p>
 
 <br/>
 
-<!-- Contribution Graph -->
+<!-- Blue Contribution Graph -->
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=imshashvat&theme=radical&hide_border=true&area=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=imshashvat&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF" 
   />
 </p>
 
@@ -116,22 +116,14 @@ Modern dark-themed personal portfolio with resume download.
 
 # 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:shashvattripathi0614@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shashvat-tripathi-6518aa332/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/imshashvat">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+- 📧 **Email:** shashvattripathi0614@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shashvat-tripathi-6518aa332/  
+- 🐙 **GitHub:** https://github.com/imshashvat  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imshashvat&style=for-the-badge&color=FF4B91"/>
+  <img src="https://komarev.com/ghpvc/?username=imshashvat&style=for-the-badge&color=58A6FF"/>
 </p>
 
 <p align="center">
