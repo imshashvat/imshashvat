@@ -6,7 +6,7 @@
 
 $ whoami
 
-<table> <tr> <td valign="top" width="60%"> const shashvat = { name: "Shashvat Tripathi", role: "CSE Student → ML Engineer", location: "India 🇮🇳", currentlyBuilding: [ "🛡️ SafeHer — AI Women's Safety Platform", "🏢 Property Management System", ], learningRightNow: [ "Supervised & Unsupervised Learning", "Feature Engineering + Model Optimization", "NLP Fundamentals", "React Native / Mobile Dev", ], funFact: "I build apps that actually solve real problems", goal: "ML Engineer @ a company that ships fast 🚀", }; </td> <td valign="top" align="center" width="40%"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" alt="coding gif"/> </td> </tr> </table> 
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/> const shashvat = { name: "Shashvat Tripathi", role: "CSE Student → ML Engineer", location: "India 🇮🇳", currentlyBuilding: [ "🛡️ SafeHer — AI Women's Safety Platform", "🏢 Property Management System", ], learningRightNow: [ "Supervised & Unsupervised Learning", "Feature Engineering + Model Optimization", "NLP Fundamentals", "React Native / Mobile Dev", ], funFact: "I build apps that actually solve real problems", goal: "ML Engineer @ a company that ships fast 🚀", }; <br clear="right"/> 
 
 🚀 Projects I'm Proud Of
 
